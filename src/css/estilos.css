@@ -1,8 +1,8 @@
 body {
     background-color: #0f131a;
-    background-size: cover;
     color: #fff;
-    background-image: url("../images/bg.jpg");
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
     font-family: 'Roboto Mono', monospace;
     line-height: 1.4;
     padding: 32px 24px;
